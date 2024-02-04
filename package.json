@@ -1,0 +1,8 @@
+{
+  "name": "ai-account-assistant",
+  "author": "Dylan O'Leary <dylanolearydev@gmail.com>",
+  "private": true,
+  "workspaces": [
+    "applications/*"
+  ]
+}
